@@ -7,7 +7,7 @@ def anagram(s1, s2):
         print("The strings are not anagrams.")
 
 
-# driver code
-s1 = "maya"
-s2 = "yma"
+
+s1 = "atal"
+s2 = "lata"
 anagram(s1, s2)
